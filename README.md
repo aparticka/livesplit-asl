@@ -3,4 +3,4 @@ LiveSplit Autosplitters
 
 ## Games
 * Nestopia
-  * Dr. Mario
+  * [Dr. Mario](https://github.com/aparticka/livesplit-asl/blob/master/nestopia/drmario.asl)
